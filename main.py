@@ -1,5 +1,8 @@
-print("added a file")
+def addOne(n):
+    return n+1
 
+def subtractOne(n):
+    return n-1
 
-
-# added a comment
+def multBy2(n):
+    return 2*n
